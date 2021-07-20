@@ -1,4 +1,5 @@
 import express from 'express';
+import './utils/formatCurrency';
 
 import { routes } from './routes';
 
