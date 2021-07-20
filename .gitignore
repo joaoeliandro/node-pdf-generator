@@ -1,2 +1,14 @@
+  
+# Vs Code
+.idea/
+.vscode/
+
+# Dependencies
 node_modules
+
+# Updloads
+tmp/*
+!tmp/.gitkeep
+
+# Logs
 yarn-error.log
